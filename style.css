@@ -1,0 +1,33 @@
+body{
+    margin: auto;
+    font-size: 20px;
+    line-height: 100%;
+}
+
+header{
+    background: blueviolet;
+}
+
+h1{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    font-size: 26px;
+    color: black;
+}
+
+h2{
+    font-size: 22px;
+    color: goldenrod;
+}
+
+a {
+    color: hotpink;
+}
+
+.bio{
+
+    width: 1024px;
+    margin: auto;
+}
+
